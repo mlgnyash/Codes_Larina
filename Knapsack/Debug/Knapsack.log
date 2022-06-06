@@ -1,0 +1,10 @@
+﻿  Knapsack.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(7,26): error C2878: filesystem: пространство имен или класс с таким именем не существует
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(23,29): error C3861: max: идентификатор не найден
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(42,37): error C2653: fs: не является именем класса или пространства имен
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(42,19): error C3861: directory_iterator: идентификатор не найден
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(43,20): error C2653: fs: не является именем класса или пространства имен
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(43,5): error C2923: std::vector: "path" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(41): message : см. объявление "path"
+C:\Users\sabin\Desktop\Аня\Knapsack\Knapsack.cpp(43,20): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
